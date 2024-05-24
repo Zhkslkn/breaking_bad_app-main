@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658193986557",
+    "project_id": "my-unique-app-cross-less",
+    "storage_bucket": "my-unique-app-cross-less.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658193986557:android:33120e217db95874c7df94",
+        "android_client_info": {
+          "package_name": "com.skyballs.breaking_bad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTenVXnqZoxugtbRVSd0KrFI3vQUdNSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
