@@ -12,10 +12,6 @@ Data are stored in internal json files.
 * Episodes (List and Description) 
 * Quotes (With the most iconic photos)
 
-A demo :  
-
-<img src="./assets/screenshots/demo.gif" width="200" />
-
 Some Screen Shots : 
 <div style="flex">
 <img src="./assets/screenshots/Screenshot_1.png" alt="character1" style="width:30%;"/>
@@ -54,17 +50,13 @@ Some Screen Shots :
 
 
 
-### Prerequisites  
-
-* Flutter 3.7.8 or upper
-
 ### Built With  
 * [Visual Code Editor](https://code.visualstudio.com)  
 
 ### Authors  
 
-* **Giovanni Palleschi** - [gpalleschi](https://github.com/gpalleschi)  
+* **Nurbol, Islam, Daulet and Dariga**
 
 ### License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE 3.0 License - see the [LICENSE](LICENSE) file for details  
+This project is licensed under the GNU GENERAL PUBLIC LICENSE 3.0 License
